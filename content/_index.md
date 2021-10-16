@@ -1,7 +1,7 @@
 +++
 +++
 
-<h2 align="center"> <b>MetriX Mathematical Olympiad</h2>
+<h2 align="center"> <b>MetriX Mathematical Olympiad</b></h2>
 
 <div align="center">
 <p>
