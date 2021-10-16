@@ -4,8 +4,8 @@
 <h2 align="center"> <b>MetriX Mathematical Olympiad</b></h2>
 <div align="center">
 <p>
-I have 6+ plus years of experience in providing information about the quality of the product under development, regardless of where in development that product is. An ambitious person who wants to be a part of all the phases in the Software development cycle.
-    
-In the daytime, I read the specs, create test cases, validate API, develop an automation framework, write scripts to automate, analyze performance, and occasionally perform a security audit for the product. In the nighttime, I develop android applications using Flutter, learning to integrate and write cloud functions in firebase and trying to play some strings.
+    <b> MetriX Mathematical Olympiad</b> or  <b>MMO</b>, as the name indicates is a mathematical olympiad which inherits the difficulty near to International Mathematical Olympiad or IMO. The exam is supposed to be held online mode every year and absolutely free for all so that everyone could enjoy the competition and explore the Olympiad flavour.
+
+To its  exception unlike IMO, this exam does not have any pre stages so as to attend this contest that is it is a single stage competition.This contest can be participated by participants from any country. However this contest is given by respective individuals and not in team format. More information can be found on teh about page.
 </p>
 </div>
