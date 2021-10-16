@@ -1,4 +1,5 @@
-  <center>
+++++ 
+ <center>
                   <Image
                     src={'https://imgur.com/zOCGNPN.png'}
                     width={200}
