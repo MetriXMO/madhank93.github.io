@@ -1,5 +1,6 @@
-++++ 
- <center>
+<h2 align="center"> <b>MetriX Mathematical Olympiad</b></h2>
+ 
+<center>
                   <Image
                     src={'https://imgur.com/zOCGNPN.png'}
                     width={200}
@@ -7,7 +8,7 @@
                   />
                 </center>
 
-<h2 align="center"> <b>MetriX Mathematical Olympiad</b></h2>
+
 
 <div align="center">
 <p>
