@@ -1,8 +1,8 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://madhank93.github.io"
+base_url = "https://metrixmatholympiad.vercel.app/"
 
 # The site title used in feeds by default.
-title = "Madhan"
+title = "MMO"
 
 # The site theme to use.
 theme = "DeepThought"
@@ -77,7 +77,7 @@ webmanifest = "/icons/site.webmanifest"
 
 # Author details
 [extra.author]
-name = "Madhan"
+name = "MMO"
 avatar = "https://raw.githubusercontent.com/madhank93/personal_blog/main/static/images/avatar.png"
 
 # Social links
