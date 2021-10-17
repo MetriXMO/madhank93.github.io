@@ -1,4 +1,5 @@
-
++++
++++
 
 <h2 align="center"> <b><span style="color: #608DE7;">MetriX Mathematical Olympiad</span></b></h2>
 <div align="center">
