@@ -1,7 +1,7 @@
 +++
 +++
-<p>This is a <span style="color: red;">red</span> word in a sentence</p> 
-<h2 align="center"> <b>MetriX Mathematical Olympiad</b></h2>
+
+<h2 align="center"> <b><span style="color: cyan;">MetriX Mathematical Olympiad</span></b></h2>
 <div align="center">
 <p>
     <b> MetriX Mathematical Olympiad</b> or  <b>MMO</b>, as the name indicates is a mathematical olympiad which inherits the difficulty near to International Mathematical Olympiad or IMO. The exam is supposed to be held online mode every year and absolutely free for all so that everyone could enjoy the competition and explore the Olympiad flavour.
