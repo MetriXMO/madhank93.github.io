@@ -1,6 +1,6 @@
 +++
 +++
-
+<p>This is a <span style="color: red;">red</span> word in a sentence</p> 
 <h2 align="center"> <b>MetriX Mathematical Olympiad</b></h2>
 <div align="center">
 <p>
