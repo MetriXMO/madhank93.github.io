@@ -61,9 +61,10 @@ navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
   { url = "$BASE_URL/blogs", name = "MMO 2020" },
-  { url = "$BASE_URL/tags", name = "Tags" },
-  { url = "$BASE_URL/categories", name = "Categories" },
-  { url = "$BASE_URL/projects", name = "Projects" },
+  { url = "$BASE_URL/tags", name = "Team" },
+  { url = "$BASE_URL/categories", name = "Sponsors" },
+  { url = "$BASE_URL/projects", name = "Prizes" },
+   { url = "$BASE_URL/projects", name = "Results" }
  ]},
 ]
 
