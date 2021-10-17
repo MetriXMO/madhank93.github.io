@@ -15,5 +15,17 @@ body
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+       background-color: #0f0; 
+
+body[theme="dark"]
+    filter: invert(1) hue-rotate(180deg);
 
 
+section
+    flex: 1;
+
+
+img[theme="dark"],
+picture[theme="dark"],
+video[theme="dark"]
+    filter: invert(1) hue-rotate(180deg);
